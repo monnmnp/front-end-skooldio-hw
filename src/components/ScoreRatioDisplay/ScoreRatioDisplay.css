@@ -1,0 +1,22 @@
+.scroe-ratio-container {
+  padding: 12px 4px 8px 16px;
+  display: flex;
+  align-items: center;
+}
+
+.triangle {
+  height: 14px;
+  margin: 18.5px 18.5px 21.5px 2.5px;
+  color: #48b6a3;
+}
+
+.scroe-ratio-content {
+  font-size: 16px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: left;
+  color: #48b6a3;
+}

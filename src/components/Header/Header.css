@@ -1,0 +1,56 @@
+.header-container {
+  height: 100px;
+  padding: 12px 4px 8px 16px;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  width: fit-content;
+  margin: 10px;
+}
+
+.engi {
+  width: 80px;
+  height: 86px;
+  padding: 0 0 1px;
+  object-fit: contain;
+}
+
+.content {
+  width: fit-content;
+}
+
+.header1 {
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ff5a5a;
+}
+
+.header2 {
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  margin: 5px 0 24px 0;
+  line-height: 0.8;
+  letter-spacing: normal;
+  text-align: left;
+  color: #9b9b9b;
+}
+
+.header3 {
+  font-size: 20px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.8;
+  letter-spacing: normal;
+  text-align: left;
+  color: #9b9b9b;
+}

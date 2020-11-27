@@ -1,0 +1,37 @@
+.footer-container {
+  padding: 12px 4px 8px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.user {
+  width: 10px;
+  height: 10px;
+  color: #9b9b9b;
+  margin-right: 4px;
+}
+
+.footer-content {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 300;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #9b9b9b;
+}
+
+.content-copy {
+  margin-left: 4px;
+  font-style: italic;
+}
+
+.Group-2 {
+  width: 18px;
+  height: 23px;
+  padding: 1px;
+  object-fit: contain;
+}
